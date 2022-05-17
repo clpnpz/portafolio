@@ -1,4 +1,4 @@
-# Portafolio de Claudio Peña
+## Portafolio de Claudio Peña
 
 # [Proyecto 1: Titulo]()
 
